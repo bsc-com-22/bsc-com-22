@@ -1,7 +1,4 @@
-<!-- Banner / Header -->
-<p align="center">
-  <img src="https://camo.githubusercontent.com/0e260276bb7dc25cfd477bc8a33493ec64eca916874a5aa24a6278e17df67158/68747470733a2f2f692e70696e696d672e636f6d2f373336782f38312f32392f39322f38313239393266343461326364366536373837623862363132303961626634382e6a7067" width="850px" alt="Developer Banner"/>
-</p>
+
 
 <h1 align="center">👋 Hi, I'm Blessings Chidazi</h1>
 <h3 align="center">Frontend Developer | UI/UX Designer | Full-Stack Enthusiast</h3>
